@@ -2,16 +2,16 @@ public class DataTypeInspector {
 
     public static void main(String[] args) {
 
-        byte Byte = 10;
-        short Short = 200;
-        int Int = 1000;
-        long Long = 10000L;
+byte Byte = 10;
+short Short = 200;
+int Int = 1000;
+long Long = 10000L;
 
-        float Float = 5.5f;
-        double Double = 20.25;
+float Float = 5.5f;
+double Double = 20.25;
 
-        char Char = '@';
-        boolean Boolean = true;
+char Char = '@';
+boolean Boolean = true;
 
         System.out.println("Byte value: " + Byte);
         System.out.println("Short value: " + Short);
